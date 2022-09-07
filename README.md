@@ -1,1 +1,1 @@
-# build_rest_api_with_FastAPI_SQLAlchemy_and_PostgreSQL_project
+# build_a_FastAPI_and_Postgresql_with_SqlAlchemy
